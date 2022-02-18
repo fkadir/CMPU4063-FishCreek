@@ -1,0 +1,61 @@
+header {
+	background: #489fb5;
+	font-family: calibri;
+	color: #d9d9d9;
+	font-size: 26;
+	margin: 0;
+}
+
+a:link.blue {
+	color: #82c0cc;
+}
+
+a:visited.blue {
+	color: #82c0cc;
+}
+
+a:hover.blue {
+	color: #82c0cc;
+}
+
+footer {
+	background: #82c0cc;
+	text-align: right;
+}
+
+ul {
+	list-style-type: square;
+}
+
+dt {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+td {
+	padding: 100;
+}
+
+nav {
+	font-weight: bold;
+}
+
+.center {
+	margin-right: auto;
+	margin-left: auto;
+	table-layout: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.black {
+	color: black;
+}
+
+#index {
+	background: #f0efeb;
+}
+
+#services {
+	background: #fff1e6;
+}
